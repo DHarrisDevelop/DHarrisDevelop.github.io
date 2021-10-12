@@ -1,10 +1,12 @@
 # Devin's Career
 Devin's career has had **3 major phases** described below:
 
-1. [Early Career - Before US Navy](#early-life-before-the-navy)
+1. [Early Career - Before US Navy](#life-before-the-navy)
 2. [Mid Career - US Navy Years](#us-navy-years)
 3. [Recent](#recent years)
-## Mid Career - US Navy Years
+## Recent
+
+## US Navy Years
 
 ### Information Systems Technician
 - After leaving the submarine and being disqualified from both Nuclear Field Duty and Submarine Duty Devin as allowed to "cross-rate" to being an Information Systems Technician (IT)
@@ -119,7 +121,7 @@ Devin's career has had **3 major phases** described below:
     - Basic life skills
     - Teamwork
 
-## Early Life/Before the Navy
+## Life Before the Navy
 - This period started at birth and lasted until the year 2006 when Devin Officially joined the Navy
 - Most of this time Devin was an Adolescent under the age of 18 and jobs were entry level, apprentice, or intern
 
