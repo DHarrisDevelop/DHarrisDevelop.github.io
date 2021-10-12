@@ -5,9 +5,19 @@ Devin's career has had **3 major phases** described below:
 2. [Mid Career - US Navy Years](#us-navy-years)
 3. [Recent](#recent years)
 ## Recent
+### Security Complaince and Customer Assurance Lead - [Elastic](elastic.co)
+
+### Senior Field Security Engineer - [GitLab](about.gitlab.com)
+
+### FedRAMP Compliance Implementation Engineer - [Duo Security](duo.com)
+
+### Information Systems Security Manager (ISSM) DoD Projects - Dallas-Fort Worth Metroplex
+
+### Solutions Architect (Enterprise Security Solutions) - Dallas-Fort Worth Metroplex
+
+### HVAC Systems Controls and Security Technician - Dallas-Fort Worth Metroplex
 
 ## US Navy Years
-
 ### Information Systems Technician
 - After leaving the submarine and being disqualified from both Nuclear Field Duty and Submarine Duty Devin as allowed to "cross-rate" to being an Information Systems Technician (IT)
 - After attending a basic course of instruction and graduating number 1 in his class Devin was assigned to a Detachment of a Naval Shipyard that was being "stood back up" after being closed during a round of Base Realignment and Closures (BRAC)
