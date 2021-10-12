@@ -10,9 +10,15 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    name: script/cibuild
     steps:
     - uses: actions/checkout@v2
+    - uses: ruby/setup-ruby@v1
+    with:
+      ruby-version: 2.7
+      bundler-cache: true
+    - name: buildit
+      run: script/cibuild
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
